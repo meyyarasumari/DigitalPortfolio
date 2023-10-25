@@ -1,0 +1,41 @@
+h1{
+    color: blue;
+}
+h2{
+    color:blue;
+}
+.pos_cen
+{
+    position: absolute;
+    width:70%;
+    left: 11%;
+    top:90%;
+    padding:50px;
+    text-align: "center";
+    background-color:aqua;
+}
+.pos_cen p{
+    color:black;
+    font-size: 34px;
+}
+.pos_cen h3{
+    text-align: center;
+    color:black;
+    font-size: 33px;
+}
+.img_deg{
+    float:right;
+}
+.bottom-bar
+{
+    background:#f18930;
+    text-align:center;
+    padding:10px 0;
+    margin-top: 50px;
+}
+.bottom-bar pre{
+    color:#343434;
+    margin:0;
+    font-size: 16px;
+    padding:7px;
+}

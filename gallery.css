@@ -1,0 +1,53 @@
+.post
+{
+    background-color:powderblue;
+}
+.img1
+{
+    height:407px;
+    width:612px;
+    align-items: center;
+}
+.img2
+{
+    height:407px;
+    width:612px;
+    align-items: center;
+}
+.img3
+{
+    height:407px;
+    width:612;
+    align-items: center;
+}
+.img4
+{
+    height:407px;
+    width:612px;
+    align-items: center;
+}
+.img5
+{
+    height:407px;
+    width:612px;
+    align-items: center;
+}
+.img6
+{
+    height:407px;
+    width:612px;
+    align-items: center;
+}
+.bottom-bar
+{
+    background:#f18930;
+    text-align:center;
+    padding:10px 0;
+    margin-top: 50px;
+}
+.bottom-bar pre{
+    color:#343434;
+    margin:0;
+    font-size: 16px;
+    padding:7px;
+}

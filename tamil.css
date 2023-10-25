@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+}
+h2{
+    color:blue;
+}
+.pos_cen
+{
+    position: absolute;
+    width:70%;
+    left: 11%;
+    top:90%;
+    padding:50px;
+    text-align: "center";
+    background-color:aqua;
+}
+.pos_cen p{
+    color:blueviolet;
+    font-size: 34px;
+}
+.pos_cen h3{
+    text-align: center;
+    color:red;
+    font-size: 33px;
+}
+.img_deg{
+    float:right;
+}
+.pos_cen p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 34px;
+    color: red;
+}
+.pos p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: black;
+}
+.pos1 p
+{
+    font-size: 20px;
+}
